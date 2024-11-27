@@ -10,7 +10,6 @@ This project is designed to showcase skills in:<br>
 3. Database optimization and management<br>
 4. Working with various datasets for insights<br>
 
-**Getting Started**<br>
 To run this project:<br>
 git clone https://github.com/gitkanupriya/SQL-project.git<br>
 ```<br>
